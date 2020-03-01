@@ -1,0 +1,101 @@
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.deps.json
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.runtimeconfig.json
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.runtimeconfig.dev.json
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.dll
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.pdb
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.Views.dll
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.Views.pdb
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csprojAssemblyReference.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorAssemblyInfo.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorAssemblyInfo.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.AssemblyInfoInputs.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.AssemblyInfo.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.TagHelpers.input.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.TagHelpers.output.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorCoreGenerate.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorTargetAssemblyInfo.cache
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorTargetAssemblyInfo.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.Views.pdb
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.dll
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.pdb
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csproj.CopyComplete
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/New.g.cshtml.cs
+/Users/user/coding dojo/csharp/orms/EntityFramework/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/ViewDish.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csprojAssemblyReference.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorAssemblyInfo.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorAssemblyInfo.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.AssemblyInfoInputs.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.AssemblyInfo.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.dll
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.pdb
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.TagHelpers.input.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.TagHelpers.output.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorCoreGenerate.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/New.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/NewChef.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/ViewDish.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorTargetAssemblyInfo.cache
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorTargetAssemblyInfo.cs
+/Users/user/Desktop/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.deps.json
+/Users/user/Desktop/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.runtimeconfig.json
+/Users/user/Desktop/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.runtimeconfig.dev.json
+/Users/user/Desktop/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.dll
+/Users/user/Desktop/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.pdb
+/Users/user/Desktop/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.Views.dll
+/Users/user/Desktop/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.Views.pdb
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.Views.pdb
+/Users/user/Desktop/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csproj.CopyComplete
+/Users/user/coding dojo/c#/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.deps.json
+/Users/user/coding dojo/c#/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.runtimeconfig.json
+/Users/user/coding dojo/c#/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.runtimeconfig.dev.json
+/Users/user/coding dojo/c#/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.dll
+/Users/user/coding dojo/c#/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.pdb
+/Users/user/coding dojo/c#/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.Views.dll
+/Users/user/coding dojo/c#/CRUDelicious/bin/Debug/netcoreapp2.2/CRUDelicious.Views.pdb
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csprojAssemblyReference.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorAssemblyInfo.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorAssemblyInfo.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.AssemblyInfoInputs.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.AssemblyInfo.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.TagHelpers.input.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.TagHelpers.output.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorCoreGenerate.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/New.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/NewChef.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Home/ViewDish.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorTargetAssemblyInfo.cache
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.RazorTargetAssemblyInfo.cs
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.Views.pdb
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.dll
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.pdb
+/Users/user/coding dojo/c#/CRUDelicious/obj/Debug/netcoreapp2.2/CRUDelicious.csproj.CopyComplete

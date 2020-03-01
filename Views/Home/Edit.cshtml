@@ -1,0 +1,34 @@
+@model Dish
+<a asp-action="Index">Home</a>
+
+<h1>@Model.Name</h1>
+<h2>@Model.Chef</h2>
+<hr>
+
+<form asp-controller="Home" asp-action="Update" asp-route-dishId="@Model.DishId">
+<div>
+    <div style="display:inline-block; vertical-align:top; margin;:50px">
+        <label>Name of Dish <br><input asp-for="Name" type="text" value="@Model.Chef"></label><br>
+        <label>Chef's Name <br><input asp-for="Chef" type="text" value="@Model.Name"></label><br>
+        <label># of Calories <br><input asp-for="Calories" type="text" value="@Model.Calories"></label><br>
+    </div>
+    <div style="display:inline-block; vertical-align:top;margin:50px">
+        Tastiness
+        <select asp-for="Tastiness">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </div>
+    <div style="display:inline-block;margin:50px">
+        <p>Description</p><br>
+        <textarea asp-for="Description" id="" cols="30" rows="10" placeholder="@Model.Description"></textarea> <br>
+        <button>Edit Dish</button>
+    </div>
+</div>
+
+</form>
+
+
